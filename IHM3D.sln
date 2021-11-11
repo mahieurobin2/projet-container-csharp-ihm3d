@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM3D", "IHM3D\IHM3D.csproj", "{EE3763F5-DCC9-491A-84FB-43681FD6A9E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3763F5-DCC9-491A-84FB-43681FD6A9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3763F5-DCC9-491A-84FB-43681FD6A9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3763F5-DCC9-491A-84FB-43681FD6A9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3763F5-DCC9-491A-84FB-43681FD6A9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
