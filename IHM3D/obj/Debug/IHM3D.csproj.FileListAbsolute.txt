@@ -1,0 +1,30 @@
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\bin\Debug\IHM3D.exe.config
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\bin\Debug\IHM3D.exe
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\bin\Debug\IHM3D.pdb
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.csprojResolveAssemblyReference.cache
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.Properties.Resources.resources
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.csproj.GenerateResource.Cache
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.exe
+c:\users\robin mahieu\documents\visual studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.pdb
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\bin\Debug\MySql.Data.dll
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\bin\Debug\MySql.Data.Entity.dll
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\bin\Debug\MySql.Web.dll
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.login.resources
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.Menu.resources
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.liste.resources
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.ajouter.resources
+C:\Users\robin mahieu\Documents\Visual Studio 2012\Projects\IHM3D\IHM3D\obj\Debug\IHM3D.IHM3D.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\bin\Debug\IHM3D.exe.config
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\bin\Debug\IHM3D.exe
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\bin\Debug\IHM3D.pdb
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.csproj.AssemblyReference.cache
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.ajouter.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.IHM3D.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.liste.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.login.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.Menu.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.Properties.Resources.resources
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.csproj.GenerateResource.cache
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.csproj.CoreCompileInputs.cache
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.exe
+C:\Users\robil\Desktop\IHM3D\IHM3D\IHM3D\obj\Debug\IHM3D.pdb
